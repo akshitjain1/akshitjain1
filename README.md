@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🚀 HIGH-IMPACT HERO SECTION -->
-<img src="banner.png" width="100%" alt="Akshit Jain Banner" />
+<img src="banner.png" width="50%" alt="Akshit Jain Banner" />
 
 <br/>
 
