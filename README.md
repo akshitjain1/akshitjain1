@@ -1,111 +1,145 @@
 <div align="center">
 
-<!-- Header Section -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=AKSHIT%20JAIN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- 🚀 HIGH-IMPACT HERO SECTION -->
+<img src="banner.png" width="100%" alt="Akshit Jain Banner" />
 
 <br/>
 
-### 01 — OVERVIEW
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full-Stack+Developer;Problem+Solver;AI+Enthusiast" />
-</p>
-
+# 👋 I'm Akshit Jain
+### **ML Systems Engineer | Full-Stack Architect | Problem Solver**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available%20for%20Opportunities-6366f1?style=for-the-badge&logoColor=white" />
+  <a href="https://akshitjain.vercel.app">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/akshitjain1">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 02 — IMPACT & METRICS
+<!-- 📊 RECRUITER DASHBOARD -->
+### 01 — PERFORMANCE SNAPSHOT
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/5%2B-Languages-6366f1?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Mastered</sub>
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 15px; padding: 10px;">
+      <font size="5"><b>5+</b></font><br/>
+      <sub>Core Languages</sub><br/>
+      <img src="https://img.shields.io/badge/-Expert-6366f1?style=flat-square" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/12%2B-Projects-6366f1?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Successfully Built</sub>
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 15px; padding: 10px;">
+      <font size="5"><b>12+</b></font><br/>
+      <sub>Production Projects</sub><br/>
+      <img src="https://img.shields.io/badge/-Impactful-6366f1?style=flat-square" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/17%2B-Certifications-6366f1?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Earned</sub>
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 15px; padding: 10px;">
+      <font size="5"><b>100+</b></font><br/>
+      <sub>Solved LeetCode</sub><br/>
+      <img src="https://img.shields.io/badge/-Analytical-6366f1?style=flat-square" />
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/100%2B-LeetCode-6366f1?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Problems Solved</sub>
+    <td align="center" width="220" style="background-color: #0d1117; border-radius: 15px; padding: 10px;">
+      <font size="5"><b>17+</b></font><br/>
+      <sub>Certifications</sub><br/>
+      <img src="https://img.shields.io/badge/-Certified-6366f1?style=flat-square" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 03 — TECH STACK
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,sklearn,flask,react,nextjs,django,mongodb,mysql,git,docker,aws,linux" />
-</p>
+<!-- 🛠 TECH STACK ARSENAL -->
+### 02 — THE TECH STACK
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧠 Machine Learning</h4>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow" /><br/>
+      <sub>Focus: Bio-Medical NLP, CV</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Web Architecture</h4>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,django,flask,fastapi" /><br/>
+      <sub>Focus: Full-stack Systems</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚙️ Engineering Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,mongodb,mysql" /><br/>
+      <sub>Focus: Scalable Deployment</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 04 — FEATURED PROJECTS
+<!-- 🏗 PORTFOLIO SHOWCASE -->
+### 03 — FEATURED WORK
 <div align="left">
 
-#### 🤖 **Explainable Clinical Entity Recognition**
-> *Advanced medical NLP system for extracting clinical entities with transparency.*
-> `PyTorch` `Transformers` `BioBERT`
+<details open>
+<summary><b>🤖 Clinical Entity Recognition (NLP/ML)</b></summary>
+<br/>
+Optimizing clinical data extraction using State-of-the-Art Transformers. Achieved high accuracy in identifying complex medical terms for patient stratification.
+<br/>
+<code>BioBERT</code> <code>PyTorch</code> <code>HuggingFace</code>
+</details>
 
-#### 🏥 **Rheumatoid Arthritis Patient Stratification**
-> *Predictive modelling for autoimmune disease management.*
-> `Machine Learning` `Healthcare AI` `Python`
+<details>
+<summary><b>🏥 RA Patient Stratification (Data Science)</b></summary>
+<br/>
+Developed predictive models to categorize Rheumatoid Arthritis patients based on longitudinal healthcare data, enabling personalized treatment paths.
+<br/>
+<code>Scikit-Learn</code> <code>Pandas</code> <code>XGBoost</code>
+</details>
 
-#### ✍️ **Handwritten Assignment Grader**
-> *AI-powered system for automated assessment of handwritten documents.*
-> `Computer Vision` `OCR` `FastAPI`
+<details>
+<summary><b>✍️ AI-Powered Assignment Grader (CV/OCR)</b></summary>
+<br/>
+An end-to-end vision system that analyzes handwritten documents, identifies key segments, and provides automated grading feedback.
+<br/>
+<code>Tesseract</code> <code>FastAPI</code> <code>OpenCV</code>
+</details>
 
 </div>
 
 ---
 
-### 05 — EDUCATION
-<div align="left">
-
-#### 🎓 **BTech in Computer Science (ML)**
-> **Lovely Professional University (LPU)** | *Current*
-> Focusing on Machine Learning, AI, and Software Architecture.
-
-#### 🏫 **Senior Secondary**
-> **Himgiri Public School** | *Panipat, Haryana*
-> Science Stream (PCM).
-
-</div>
-
----
-
-### 06 — GITHUB ECOSYSTEM
+<!-- 📈 GITHUB ACTIVITY -->
+### 04 — ECOSYSTEM & CONTRIBUTIONS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitjain1&show_icons=true&theme=transparent&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjain1&theme=transparent&stroke=6366f1&fire=6366f1&ring=6366f1&hide_border=true&background=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitjain1&show_icons=true&theme=transparent&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjain1&theme=transparent&stroke=6366f1&fire=6366f1&ring=6366f1&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjain1&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true&bg_color=0D1117" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitjain1&theme=transparent" width="100%" />
 </p>
 
 ---
 
-### 07 — LET'S WORK TOGETHER
+<!-- 📫 CONTACT & ENGAGEMENT -->
+### 05 — LET'S START A CONVERSATION
 <p align="center">
+  <b>Looking for a dedicated ML Engineer? I'm ready for the next challenge.</b><br/><br/>
   <a href="mailto:akshitjainonly1@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/akshitjain1">
-    <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://akshitjain.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Official%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <br/>
+
+<p align="center">
+  <i>"Code with intent. Build with impact."</i>
+</p>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=akshitjain1&icon=0&color=6366f1" />
