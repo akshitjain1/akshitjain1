@@ -18,6 +18,80 @@ I'm a forth-year Computer Science (Machine Learning) student at Lovely Professio
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+<!-- 🏗 PORTFOLIO SHOWCASE -->
+### 03 — FEATURED WORK
+<div align="left">
+
+<details open>
+<summary><b>🤖 Clinical Entity Recognition (NLP/ML)</b></summary>
+<br/>
+Optimizing clinical data extraction using State-of-the-Art Transformers. Achieved high accuracy in identifying complex medical terms for patient stratification.
+<br/>
+<code>BioBERT</code> <code>PyTorch</code> <code>HuggingFace</code>
+</details>
+
+<details>
+<summary><b>🏥 RA Patient Stratification (Data Science)</b></summary>
+<br/>
+Developed predictive models to categorize Rheumatoid Arthritis patients based on longitudinal healthcare data, enabling personalized treatment paths.
+<br/>
+<code>Scikit-Learn</code> <code>Pandas</code> <code>XGBoost</code>
+</details>
+
+<details>
+<summary><b>✍️ AI-Powered Assignment Grader (CV/OCR)</b></summary>
+<br/>
+An end-to-end vision system that analyzes handwritten documents, identifies key segments, and provides automated grading feedback.
+<br/>
+<code>Tesseract</code> <code>FastAPI</code> <code>OpenCV</code>
+</details>
+
+</div>
+
+---
+
+<!-- 📈 GITHUB ACTIVITY -->
+### 04 — ECOSYSTEM & CONTRIBUTIONS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshitjain1&show_icons=true&theme=transparent&title_color=6366f1&text_color=ffffff&icon_color=6366f1&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshitjain1&theme=transparent&stroke=6366f1&fire=6366f1&ring=6366f1&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjain1&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true&bg_color=0D1117" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitjain1&theme=transparent" width="100%" />
+</p>
+
+---
+
+<!-- 📫 CONTACT & ENGAGEMENT -->
+### 05 — LET'S START A CONVERSATION
+<p align="center">
+  <b>Looking for a dedicated ML Engineer? I'm ready for the next challenge.</b><br/><br/>
+  <a href="mailto:akshitjainonly1@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-6366f1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://akshitjain.vercel.app">
+    <img src="https://img.shields.io/badge/Official%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>"Code with intent. Build with impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=akshitjain1&icon=0&color=6366f1" />
+</p>
+
+</div>
 ---
 [![](https://komarev.com/ghpvc/?username=akshitjain1&icon=0&color=0)](https://visitcount.itsvg.in)
 
