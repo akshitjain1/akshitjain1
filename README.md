@@ -14,10 +14,10 @@ I'm a forth-year Computer Science (Machine Learning) student at Lovely Professio
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-</div>
+
 <!-- 🏗 PORTFOLIO SHOWCASE -->
-### 03 — FEATURED WORK
-<div align="left">
+<div align="center">
+<h2> 03 — FEATURED WORK</h2><br>
 
 <details open>
 <summary><b>🤖 Clinical Entity Recognition (NLP/ML)</b></summary>
