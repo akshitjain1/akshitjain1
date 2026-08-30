@@ -1,5 +1,5 @@
 <div align="center">
-# 💫 About Me:<br>
+  <h1>💫 About Me:</h1><br>
 I'm a forth-year Computer Science (Machine Learning) student at Lovely Professional University with a passion for building AI-powered software that solves real-world problems.<br><br>Currently, I'm working as an AI Software Intern at Centific, where I'm gaining hands-on experience developing enterprise AI solutions, Agentic AI systems, Proof of Concepts (POCs), and intelligent software applications.<br><br>I enjoy working at the intersection of Artificial Intelligence and Software Engineering, constantly exploring new technologies while strengthening my fundamentals in Data Structures & Algorithms and System Design.<br><br>I believe the best way to learn is by building products that create real impact.
 
 
