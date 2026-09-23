@@ -45,18 +45,15 @@ An end-to-end vision system that analyzes handwritten documents, identifies key 
 
 </div>
 
----
-
-<!-- 📈 GITHUB ACTIVITY -->
+---<!-- 📈 GITHUB ACTIVITY -->
 ### 04 — ECOSYSTEM & CONTRIBUTIONS
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjain1&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true&bg_color=0D1117" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjain1&layout=compact&theme=transparent&title_color=6366f1&text_color=ffffff&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitjain1&theme=transparent" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshitjain1&theme=transparent" alt="GitHub Profile Summary" width="100%" />
 </p>
 
 ---
