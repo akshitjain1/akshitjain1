@@ -15,37 +15,6 @@ I'm a forth-year Computer Science (Machine Learning) student at Lovely Professio
 
 
 
-<!-- 🏗 PORTFOLIO SHOWCASE -->
-<div align="center">
-<h2> 03 — FEATURED WORK</h2><br>
-
-<details open>
-<summary><b>🤖 Clinical Entity Recognition (NLP/ML)</b></summary>
-<br/>
-Optimizing clinical data extraction using State-of-the-Art Transformers. Achieved high accuracy in identifying complex medical terms for patient stratification.
-<br/>
-<code>BioBERT</code> <code>PyTorch</code> <code>HuggingFace</code>
-</details>
-
-<details>
-<summary><b>🏥 RA Patient Stratification (Data Science)</b></summary>
-<br/>
-Developed predictive models to categorize Rheumatoid Arthritis patients based on longitudinal healthcare data, enabling personalized treatment paths.
-<br/>
-<code>Scikit-Learn</code> <code>Pandas</code> <code>XGBoost</code>
-</details>
-
-<details>
-<summary><b>✍️ AI-Powered Assignment Grader (CV/OCR)</b></summary>
-<br/>
-An end-to-end vision system that analyzes handwritten documents, identifies key segments, and provides automated grading feedback.
-<br/>
-<code>Tesseract</code> <code>FastAPI</code> <code>OpenCV</code>
-</details>
-
-</div>
-
-
 <!-- 📫 CONTACT & ENGAGEMENT -->
 ### 04 — LET'S START A CONVERSATION
 <p align="center">
