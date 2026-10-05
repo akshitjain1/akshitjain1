@@ -129,12 +129,6 @@ I learn by building: every repository represents a step toward combining intelli
 <img src="https://github-readme-stats.vercel.app/api?username=akshitjain1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitjain1&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
 
-<br />
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=akshitjain1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
-
 </div>
 
 ## 🎯 Open To
