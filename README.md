@@ -131,7 +131,9 @@ I learn by building: every repository represents a step toward combining intelli
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=akshitjain1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=akshitjain1&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
